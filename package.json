@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-transformer-better-excel",
+  "version": "0.1.0",
+  "description": "Gatsby transformer plugin for Excel spreadsheets",
+  "bugs": {
+    "url": "https://github.com/dmednis/gatsby-transformer-better-excel/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dāvis Mednis <davis@medn.is>",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-transformer-excel",
+    "gatsby-transformer-better-excel",
+    "excel",
+    "xlsx"
+  ],
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.16.2"
+  }
+}
